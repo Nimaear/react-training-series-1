@@ -1,0 +1,28 @@
+.button {
+  color: blue;
+  transition: all 250ms ease-in-out;
+  outline: none;
+  border: solid 1px #ddd;
+}
+
+.odd {
+  border-radius: 10px;
+}
+
+.even {
+  border-radius: 0px;
+}
+
+.primary {
+  background-color: magenta;
+}
+
+.default {}
+
+.small {
+  font-size: 10px;
+}
+
+.big {
+  font-size: 20px;
+}
